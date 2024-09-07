@@ -1,4 +1,4 @@
-# SplitIt Documentation
+# QuickSplit Documentation
 
 ## Table of Contents
 1. [Introduction](#introduction)
