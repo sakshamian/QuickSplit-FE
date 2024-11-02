@@ -16,7 +16,7 @@
 
 ## Introduction
 
-SplitIt is a Flutter application designed to simplify the management of shared expenses. It enables users to create groups, manage expenses, track debts, and settle payments manually with ease. SplitIt is built with a focus on simplicity, security, and user-friendly experience, catering to a wide range of use cases like shared household expenses, trips, friendly expenses, and events.
+Quicksplit is a Flutter application designed to simplify the management of shared expenses. It enables users to create groups, manage expenses, track debts, and settle payments manually with ease. SplitIt is built with a focus on simplicity, security, and user-friendly experience, catering to a wide range of use cases like shared household expenses, trips, friendly expenses, and events.
 
 ## Features Overview
 
